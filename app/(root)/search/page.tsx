@@ -4,7 +4,7 @@ import ProfileHeader from "@/components/shared/ProfileHeader";
 import ThreadsTab from "@/components/shared/ThreadsTab";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { profileTabs } from "@/constants";
-import { fetchAllUsers, fetchUser } from "@/lib/actions/user.actions";
+import { fetchUsers, fetchUser } from "@/lib/actions/user.actions";
 import { currentUser } from "@clerk/nextjs";
 import Image from "next/image";
 
@@ -20,7 +20,7 @@ async function Page() {
 
   if (!userInfo?.onboarded) redirect("/onboarding");
 
-  const result = await fetchAllUsers({
+  const result = await fetchUsers({
     userId: user.id,
     searchString: "",
     pageNumber: 1,
