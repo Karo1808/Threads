@@ -28,8 +28,8 @@ import { updateUser } from "@/lib/actions/user.actions";
 interface AccountProfileProps {
   user: {
     id: string;
-    objectId: string;
-    username: string;
+    objectId?: string;
+    username?: string;
     name: string;
     bio: string;
     image: string;
