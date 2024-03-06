@@ -1,6 +1,6 @@
 # Threads 
 
-[![pl](https://img.shields.io/badge/lang-pl-red.svg)](https://github.com/YourUsername/ThreadsPlatform/blob/main/README.pl.md)
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](https://github.com/Karo1808/Threads/blob/main/README.pl.md)
 
 ### Description
 
