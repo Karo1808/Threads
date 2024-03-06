@@ -1,6 +1,6 @@
-# Platforma Wątków
+# Threads
 
-[![en](https://img.shields.io/badge/lang-pl-en.svg)](https://github.com/YourUsername/ThreadsPlatform/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-pl-en.svg)](https://github.com/Karo1808/Threads/blob/main/README.md)
 
 ### Opis
 
