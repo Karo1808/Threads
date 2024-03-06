@@ -1,4 +1,4 @@
-# Threads Platform
+# Threads 
 
 [![pl](https://img.shields.io/badge/lang-pl-red.svg)](https://github.com/YourUsername/ThreadsPlatform/blob/main/README.pl.md)
 
