@@ -6,12 +6,6 @@
 
 Threads is a web application designed to facilitate community interactions and discussions based on Threads by Meta. It offers a range of features aimed at creating engaging and inclusive online communities.
 
-This web application was built following a tutorial by [Java Script Mastery](https://www.youtube.com/watch?v=O5cmLDVTgAs).
-
-### Demo
-
-[Visit the website](https://threads-app-karo.vercel.app/)
-
 ### Features
 
 - **Authentication**
