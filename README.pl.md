@@ -4,13 +4,7 @@
 
 ### Opis
 
-Threads to aplikacja internetowa zaprojektowana do ułatwiania interakcji i dyskusji w społecznościach opartych na Threads stworzony prez Meta. Oferuje szereg funkcji mających na celu stworzenie angażujących i inkluzywnych społeczności online.
-
-Aplikacja internetowa została zbudowana na podstawie samouczka [Java Script Mastery](https://www.youtube.com/watch?v=O5cmLDVTgAs).
-
-### Demo
-
-[Odwiedź stronę](https://threads-app-karo.vercel.app/)
+Threads to aplikacja internetowa zaprojektowana do ułatwiania interakcji i dyskusji w społecznościach opartych na Threads stworzony prez Meta. Oferuje szereg funkcji mających na celu stworzenie angażujących i inkluzywnych społeczności online
 
 ### Funkcje
 
